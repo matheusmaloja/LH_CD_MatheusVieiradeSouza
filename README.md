@@ -5,7 +5,7 @@
 Os desafio consiste em criar um modelo de predição de preços de um conjunto de imóveis em um site de aluguéis. O projeto foi realizado todo em Python contendo diversas bibliotecas de exploração de dados quantitativos, qualitativos e georreferenciados. 
 
 # Estrutura do Diretório
-'ArquivosCSV': encontram-se todos os arquivos em EXCEL utilizados para a construção do modelo. 
+'ArquivosCSV': encontram-se todos os arquivos em EXCEL utilizados para a construção do modelo
 'EDA_Indicium': Contém toda análise exploratória de dados e a construção do dataset final
 'Modelo_Reg_Indicium': Contém a construção do modelo de predição
 'Mapas': Contém apenas a visualização dos mapas com pontos georreferenciados.

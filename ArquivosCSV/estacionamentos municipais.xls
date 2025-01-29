@@ -1,0 +1,11 @@
+the_geom,OBJECTID_1,SiteAddres,NAME,BORO,shortname,CarshareOr,Type,Site_ID,CS_Spaces_,Status,Offset
+POINT (-73.86786220974437 40.67606734948575),3,2829 Pitkin Avenue,Grant Avenue Municipal Parking Field,Brooklyn,Grant Ave,Zipcar,Municipal Parking Field,382.0001,6,Active,NA
+POINT (-73.95846119634145 40.6187191822558),4,1298 E 17 Street,Avenue M Municipal Parking Field,Brooklyn,Ave M,Zipcar,Municipal Parking Field,343.0001,5,Active,NA
+POINT (-74.00316368478782 40.60761316974037),5,1765 86 Street,Bensonhurst #1 Municipal Parking,Brooklyn,Bensonhurst #1,Zipcar,Municipal Parking Field,327.0001,6,Active,NA
+POINT (-73.86798509115198 40.85259303782792),10,2071 White Plains Road,White Plains Road Municipal Parking Field,Bronx,White Plains,Zipcar,Municipal Parking Field,249.0001,9,Active,NA
+POINT (-73.92561917790792 40.76100091639283),12,32-52 31 Street,Broadway / 31st Street Municipal Parking Field,Queens,Broadway / 31st St,Zipcar,Municipal Parking Field,470.0001,6,Active,Right
+POINT (-73.91184755816656 40.77422911355841),14,22-70 33 Street,Ditmars #2 Municipal Parking Field,Queens,Ditmars #2,Zipcar,Municipal Parking Field,472.0001,6,Active,Right
+POINT (-73.73718332130439 40.717615059243165),18,218-02 Jamaica Avenue,Queens Village Municipal Parking Field,Queens,Queens Village,Zipcar,Municipal Parking Field,434.0001,5,Active,NA
+POINT (-73.91677577637331 40.74288643933098),23,43-01 48 Street,Sunnyside Municipal Parking Field,Queens,Sunnyside,Zipcar,Municipal Parking Field,431.0001,6,Active,NA
+POINT (-73.95303618240993 40.585496676814856),27,1602 Voorhies Avenue,Sheepshead Bay #2,Brooklyn,Sheepshead Bay #2,Zipcar,Municipal Parking Field,347.0001,8,Active,NA
+POINT (-73.90028527878044 40.86348341219494),29,2478 Jerome Avenue,Jerome - 190th Street Municipal Garage,Bronx,Jerome - 190th St,Zipcar,Municipal Parking Field,205.0001,3,Active,NA

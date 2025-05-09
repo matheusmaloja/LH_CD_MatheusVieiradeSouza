@@ -4,6 +4,8 @@
 
 Os desafio consiste em criar um modelo de predição de preços de um conjunto de imóveis em um site de aluguéis. O projeto foi realizado todo em Python contendo diversas bibliotecas de exploração de dados quantitativos, qualitativos e georreferenciados. 
 
+Foi um excelente momento para aprender algumas tecnicas de ML e refletir sobre o problema. 
+
 # Estrutura do Diretório
 
 `ArquivosCSV`: encontram-se todos os arquivos em EXCEL utilizados para a construção do modelo  
